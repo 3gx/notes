@@ -1,2 +1,2 @@
-# links
-just links
+# notes
+just notes
